@@ -24,13 +24,13 @@ Ensure you have the following prerequisites installed:
 - TensorFlow 
 - NumPy 
 - OS 
-- Matplotlib (
+- Matplotlib 
 
 ## Installation
 
-Clone the repository and install the required dependencies:
+1. Clone the repository and install the required dependencies:
 
-```bash
-
+   ```bash
+   https://github.com/theSuriya/Action-detection.git
    cd your-repository
 
